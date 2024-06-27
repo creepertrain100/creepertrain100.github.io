@@ -1,0 +1,83 @@
+h1{
+    font-style:normal;
+    color: crimson; 
+}
+body{
+    background-color: black;
+}
+p{
+    color: white;
+}
+label{
+    color: white;
+}
+a{
+    color: cadetblue;
+}
+.biteme{
+    color: blueviolet;
+    font-size: 100px;
+
+}
+img{
+    border-radius: 10px;
+}
+.cyn{
+    color: cyan;
+    
+}
+.btn {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+    
+  }
+.btn:hover {
+    background-color: RoyalBlue;
+}
+.Nuzi{
+    color: yellow;
+}
+.blitz {
+    color: tomato;
+}
+#yippee {
+    width: 600; 
+height: 600;
+}
+h2{
+    color: white;
+}
+li {
+    color: white;
+}
+h3{
+    color: white;
+}
+th { 
+    color: white;
+}
+td { 
+    color: white;
+}
+.steamtrain{
+    color: yellow;
+}
+.polar{
+    color: black;
+    font-style: unset;
+    border-radius: 12px;
+    font-size: 16px;
+    padding: 10px 24px;
+}
+.wall-i {
+    color: black;
+    font-style: unset;
+    border-radius: 12px;
+    font-size: 16px;
+    transform: rotateX(150deg);
+    transform: rotateY(150deg);
+}
